@@ -1,0 +1,14 @@
+D:\Kì 5\PRN212\HW2\HW2\bin\Debug\net8.0\HW2.exe
+D:\Kì 5\PRN212\HW2\HW2\bin\Debug\net8.0\HW2.deps.json
+D:\Kì 5\PRN212\HW2\HW2\bin\Debug\net8.0\HW2.runtimeconfig.json
+D:\Kì 5\PRN212\HW2\HW2\bin\Debug\net8.0\HW2.dll
+D:\Kì 5\PRN212\HW2\HW2\bin\Debug\net8.0\HW2.pdb
+D:\Kì 5\PRN212\HW2\HW2\obj\Debug\net8.0\HW2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kì 5\PRN212\HW2\HW2\obj\Debug\net8.0\HW2.AssemblyInfoInputs.cache
+D:\Kì 5\PRN212\HW2\HW2\obj\Debug\net8.0\HW2.AssemblyInfo.cs
+D:\Kì 5\PRN212\HW2\HW2\obj\Debug\net8.0\HW2.csproj.CoreCompileInputs.cache
+D:\Kì 5\PRN212\HW2\HW2\obj\Debug\net8.0\HW2.dll
+D:\Kì 5\PRN212\HW2\HW2\obj\Debug\net8.0\refint\HW2.dll
+D:\Kì 5\PRN212\HW2\HW2\obj\Debug\net8.0\HW2.pdb
+D:\Kì 5\PRN212\HW2\HW2\obj\Debug\net8.0\HW2.genruntimeconfig.cache
+D:\Kì 5\PRN212\HW2\HW2\obj\Debug\net8.0\ref\HW2.dll

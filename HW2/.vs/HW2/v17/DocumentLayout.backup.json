@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K\u00EC 5\\PRN212\\HW2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCCB797-75C1-4273-BAD0-1E4FD3C49B52}|HW2\\HW2.csproj|d:\\k\u00EC 5\\prn212\\hw2\\hw2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCCB797-75C1-4273-BAD0-1E4FD3C49B52}|HW2\\HW2.csproj|solutionrelative:hw2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCCB797-75C1-4273-BAD0-1E4FD3C49B52}|HW2\\HW2.csproj|d:\\k\u00EC 5\\prn212\\hw2\\hw2\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DFCCB797-75C1-4273-BAD0-1E4FD3C49B52}|HW2\\HW2.csproj|solutionrelative:hw2\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\HW2\\HW2\\TextFile1.txt",
+              "RelativeDocumentMoniker": "HW2\\TextFile1.txt",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\HW2\\HW2\\TextFile1.txt",
+              "RelativeToolTip": "HW2\\TextFile1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-18T14:53:52.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\HW2\\HW2\\Program.cs",
+              "RelativeDocumentMoniker": "HW2\\Program.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\HW2\\HW2\\Program.cs",
+              "RelativeToolTip": "HW2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:31:24.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+﻿This is a sample text file. It contains several sentences.
+
+You can use this file to test your File Analyzer application.
+Is it working correctly? Let's find out!
+
+C# is a great programming language. It's powerful and modern.
