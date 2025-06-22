@@ -1,0 +1,802 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\businesslogiclayer\\extensions\\mappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\extensions\\mappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\businesslogiclayer\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\dataaccesslayer\\data\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\data\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\giawpf\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|solutionrelative:giawpf\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\giawpf\\views\\customerdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|solutionrelative:giawpf\\views\\customerdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\giawpf\\views\\customerdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|solutionrelative:giawpf\\views\\customerdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\giawpf\\viewmodels\\customerdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|solutionrelative:giawpf\\viewmodels\\customerdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\giawpf\\viewmodels\\customerdialogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|solutionrelative:giawpf\\viewmodels\\customerdialogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\giawpf\\views\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|solutionrelative:giawpf\\views\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\giawpf\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|solutionrelative:giawpf\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\giawpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|solutionrelative:giawpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\giawpf\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|solutionrelative:giawpf\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\giawpf\\viewmodels\\admindashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|solutionrelative:giawpf\\viewmodels\\admindashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\giawpf\\views\\customerdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|solutionrelative:giawpf\\views\\customerdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\giawpf\\views\\admindashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|solutionrelative:giawpf\\views\\admindashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\giawpf\\views\\customerdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|solutionrelative:giawpf\\views\\customerdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\giawpf\\service\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|solutionrelative:giawpf\\service\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\businesslogiclayer\\service\\roomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\service\\roomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\businesslogiclayer\\dtos\\roomtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dtos\\roomtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\businesslogiclayer\\dtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\giawpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|solutionrelative:giawpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\businesslogiclayer\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\businesslogiclayer\\service\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\service\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\giawpf\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|solutionrelative:giawpf\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\businesslogiclayer\\service\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\service\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\dataaccesslayer\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\dataaccesslayer\\models\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\dataaccesslayer\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\dataaccesslayer\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\giawpf\\converters\\booleantovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|solutionrelative:giawpf\\converters\\booleantovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\giawpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|solutionrelative:giawpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\businesslogiclayer\\service\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\service\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\businesslogiclayer\\service\\iroomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\service\\iroomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\businesslogiclayer\\service\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\service\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\businesslogiclayer\\service\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\service\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\dataaccesslayer\\repositories\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\dataaccesslayer\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\dataaccesslayer\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\dataaccesslayer\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\dataaccesslayer\\repositories\\iroomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\iroomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\dataaccesslayer\\repositories\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\dataaccesslayer\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\dataaccesslayer\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\dataaccesslayer\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\giawpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|solutionrelative:giawpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\giawpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2AA053-B9E5-4D2D-812D-63484D3FA957}|GiaWPF\\GiaWPF.csproj|solutionrelative:giawpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\dataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89193029-26C0-44A2-B01E-EEA32CB29F62}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\businesslogiclayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CC4A41-E433-45E0-BE08-A7C4B7FD9204}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B48BEB-67BA-4D46-ACFE-20E83D616F4D}|GiaNS_SE18D05_A01\\GiaNS_SE18D05_A01.csproj|d:\\k\u00EC 5\\prn212\\gians_se18d05_a01\\gians_se18d05_a01\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B48BEB-67BA-4D46-ACFE-20E83D616F4D}|GiaNS_SE18D05_A01\\GiaNS_SE18D05_A01.csproj|solutionrelative:gians_se18d05_a01\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminDashboard.xaml",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\Views\\AdminDashboard.xaml",
+              "RelativeDocumentMoniker": "GiaWPF\\Views\\AdminDashboard.xaml",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\Views\\AdminDashboard.xaml",
+              "RelativeToolTip": "GiaWPF\\Views\\AdminDashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T07:46:19.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GiaWPF\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "GiaWPF\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:17:02.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HotelDbContext.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Data\\HotelDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Data\\HotelDbContext.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Data\\HotelDbContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\Data\\HotelDbContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswC4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T01:54:30.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerDashboard.xaml",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\Views\\CustomerDashboard.xaml",
+              "RelativeDocumentMoniker": "GiaWPF\\Views\\CustomerDashboard.xaml",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\Views\\CustomerDashboard.xaml",
+              "RelativeToolTip": "GiaWPF\\Views\\CustomerDashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T09:36:30.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\DTOs\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\DTOs\\CustomerDto.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\DTOs\\CustomerDto.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\DTOs\\CustomerDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:01:14.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingExtensions.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\Extensions\\MappingExtensions.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Extensions\\MappingExtensions.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\Extensions\\MappingExtensions.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Extensions\\MappingExtensions.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAApwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:02:49.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerDashboardViewModel.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\ViewModels\\CustomerDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "GiaWPF\\ViewModels\\CustomerDashboardViewModel.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\ViewModels\\CustomerDashboardViewModel.cs",
+              "RelativeToolTip": "GiaWPF\\ViewModels\\CustomerDashboardViewModel.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:34:14.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerDashboard.xaml.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\Views\\CustomerDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "GiaWPF\\Views\\CustomerDashboard.xaml.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\Views\\CustomerDashboard.xaml.cs",
+              "RelativeToolTip": "GiaWPF\\Views\\CustomerDashboard.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:36:50.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerDialogViewModel.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\ViewModels\\CustomerDialogViewModel.cs",
+              "RelativeDocumentMoniker": "GiaWPF\\ViewModels\\CustomerDialogViewModel.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\ViewModels\\CustomerDialogViewModel.cs",
+              "RelativeToolTip": "GiaWPF\\ViewModels\\CustomerDialogViewModel.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAmwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:45:03.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "GiaWPF\\Views\\LoginWindow.xaml",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "GiaWPF\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T02:16:52.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminDashboardViewModel.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\ViewModels\\AdminDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "GiaWPF\\ViewModels\\AdminDashboardViewModel.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\ViewModels\\AdminDashboardViewModel.cs",
+              "RelativeToolTip": "GiaWPF\\ViewModels\\AdminDashboardViewModel.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAAAAUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:44:29.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "GiaWPF\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "GiaWPF\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:12:30.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "GiaWPF\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "GiaWPF\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAuwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:13:36.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerDialog.xaml",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\Views\\CustomerDialog.xaml",
+              "RelativeDocumentMoniker": "GiaWPF\\Views\\CustomerDialog.xaml",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\Views\\CustomerDialog.xaml",
+              "RelativeToolTip": "GiaWPF\\Views\\CustomerDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T08:20:53.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminDashboard.xaml.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\Views\\AdminDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "GiaWPF\\Views\\AdminDashboard.xaml.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\Views\\AdminDashboard.xaml.cs",
+              "RelativeToolTip": "GiaWPF\\Views\\AdminDashboard.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:13:20.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerDialog.xaml.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\Views\\CustomerDialog.xaml.cs",
+              "RelativeDocumentMoniker": "GiaWPF\\Views\\CustomerDialog.xaml.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\Views\\CustomerDialog.xaml.cs",
+              "RelativeToolTip": "GiaWPF\\Views\\CustomerDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:21:15.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoomDto.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\DTOs\\RoomDto.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\DTOs\\RoomDto.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\DTOs\\RoomDto.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\DTOs\\RoomDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:01:38.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoomTypeService.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\Service\\RoomTypeService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Service\\RoomTypeService.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\Service\\RoomTypeService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Service\\RoomTypeService.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAuwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:26:10.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoomTypeDto.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\DTOs\\RoomTypeDto.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\DTOs\\RoomTypeDto.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\DTOs\\RoomTypeDto.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\DTOs\\RoomTypeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:02:03.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\Service\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "GiaWPF\\Service\\ServiceContainer.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\Service\\ServiceContainer.cs",
+              "RelativeToolTip": "GiaWPF\\Service\\ServiceContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:10:17.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\Service\\CustomerService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Service\\CustomerService.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\Service\\CustomerService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Service\\CustomerService.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAuwJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:07:22.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\Service\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Service\\AuthenticationService.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\Service\\AuthenticationService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Service\\AuthenticationService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:08:28.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\App.xaml",
+              "RelativeDocumentMoniker": "GiaWPF\\App.xaml",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\App.xaml",
+              "RelativeToolTip": "GiaWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T02:18:59.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "GiaWPF\\Commands\\RelayCommand.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "GiaWPF\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:13:11.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\Service\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Service\\IAuthenticationService.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\Service\\IAuthenticationService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Service\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:06:55.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Models\\RoomType.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\RoomType.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Models\\RoomType.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\RoomType.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T15:58:25.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RoomInformation.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Models\\RoomInformation.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\RoomInformation.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Models\\RoomInformation.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\RoomInformation.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T15:59:22.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\Customer.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Models\\Customer.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\Customer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T16:00:02.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\Admin.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Models\\Admin.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T01:23:08.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BooleanToVisibilityConverter.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\Converters\\BooleanToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "GiaWPF\\Converters\\BooleanToVisibilityConverter.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\Converters\\BooleanToVisibilityConverter.cs",
+              "RelativeToolTip": "GiaWPF\\Converters\\BooleanToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:18:27.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "GiaWPF\\App.xaml.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\App.xaml.cs",
+              "RelativeToolTip": "GiaWPF\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:34:35.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\Service\\RoomService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Service\\RoomService.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\Service\\RoomService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Service\\RoomService.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAowL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:07:52.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IRoomTypeService.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\Service\\IRoomTypeService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Service\\IRoomTypeService.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\Service\\IRoomTypeService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Service\\IRoomTypeService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:06:30.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\Service\\IRoomService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Service\\IRoomService.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\Service\\IRoomService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Service\\IRoomService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA7wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:06:03.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\Service\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Service\\ICustomerService.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\Service\\ICustomerService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Service\\ICustomerService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:05:33.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RoomTypeRepository.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Repositories\\RoomTypeRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\RoomTypeRepository.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Repositories\\RoomTypeRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\RoomTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:00:04.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\RoomRepository.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\RoomRepository.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAowE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T01:59:29.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T01:58:57.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IRoomTypeRepository.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Repositories\\IRoomTypeRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\IRoomTypeRepository.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Repositories\\IRoomTypeRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\IRoomTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T01:53:07.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Repositories\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\IRoomRepository.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Repositories\\IRoomRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\IRoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T01:52:29.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T01:51:28.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T01:46:15.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\BaseRepository.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAowGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T16:01:59.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T16:00:57.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GiaWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\MainWindow.xaml",
+              "RelativeToolTip": "GiaWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T15:54:47.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GiaWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GiaWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T15:54:47.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Class1.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\DataAccessLayer\\Class1.cs",
+              "RelativeToolTip": "DataAccessLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T15:52:00.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Class1.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\BusinessLogicLayer\\Class1.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T15:51:34.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaNS_SE18D05_A01\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GiaNS_SE18D05_A01\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\GiaNS_SE18D05_A01\\GiaNS_SE18D05_A01\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GiaNS_SE18D05_A01\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T15:43:25.403Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

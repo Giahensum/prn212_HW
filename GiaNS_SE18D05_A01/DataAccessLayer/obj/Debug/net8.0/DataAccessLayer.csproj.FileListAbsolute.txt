@@ -1,0 +1,12 @@
+D:\Kì 5\PRN212\GiaNS_SE18D05_A01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\Kì 5\PRN212\GiaNS_SE18D05_A01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Kì 5\PRN212\GiaNS_SE18D05_A01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Kì 5\PRN212\GiaNS_SE18D05_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kì 5\PRN212\GiaNS_SE18D05_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Kì 5\PRN212\GiaNS_SE18D05_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\Kì 5\PRN212\GiaNS_SE18D05_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Kì 5\PRN212\GiaNS_SE18D05_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+D:\Kì 5\PRN212\GiaNS_SE18D05_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\Kì 5\PRN212\GiaNS_SE18D05_A01\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\Kì 5\PRN212\GiaNS_SE18D05_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\Kì 5\PRN212\GiaNS_SE18D05_A01\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
