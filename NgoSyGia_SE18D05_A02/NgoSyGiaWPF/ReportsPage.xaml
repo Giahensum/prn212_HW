@@ -1,0 +1,109 @@
+﻿<Page x:Class="NgoSyGiaWPF.ReportsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Reports">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title -->
+        <TextBlock Grid.Row="0" Text="Revenue and Booking Reports" 
+                   FontSize="24" FontWeight="Bold" 
+                   Foreground="#FF1976D2" Margin="0,0,0,20"/>
+
+        <!-- Date Range Selection -->
+        <Border Grid.Row="1" Background="#FFF5F5F5" Padding="15" CornerRadius="5" Margin="0,0,0,20">
+            <StackPanel>
+                <TextBlock Text="Select Report Period (sorted in descending order):" FontWeight="Bold" FontSize="16" Margin="0,0,0,10"/>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="150"/>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="150"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock Grid.Column="0" Text="From:" VerticalAlignment="Center" Margin="0,0,10,0"/>
+                    <DatePicker Grid.Column="1" Name="dpStartDate" Height="30" Margin="0,0,20,0"/>
+                    <TextBlock Grid.Column="2" Text="To:" VerticalAlignment="Center" Margin="0,0,10,0"/>
+                    <DatePicker Grid.Column="3" Name="dpEndDate" Height="30" Margin="0,0,20,0"/>
+                    <Button Grid.Column="4" Name="btnGenerateReport" Content="Generate Report" 
+                            Height="30" Padding="15,5" Background="#FF4CAF50" Foreground="White"
+                            BorderThickness="0" FontWeight="Bold" Click="BtnGenerateReport_Click"/>
+                </Grid>
+            </StackPanel>
+        </Border>
+
+        <!-- Report Content -->
+        <TabControl Grid.Row="2" FontSize="14">
+            <TabItem Header="Revenue Report" FontSize="14">
+                <Grid Margin="10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <!-- Summary Cards -->
+                    <Grid Grid.Row="0" Margin="0,0,0,20">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Border Grid.Column="0" Background="#FF2196F3" CornerRadius="5" Padding="15" Margin="0,0,5,0">
+                            <StackPanel HorizontalAlignment="Center">
+                                <TextBlock Text="Total Revenue" Foreground="White" FontSize="12" HorizontalAlignment="Center"/>
+                                <TextBlock Name="lblTotalRevenue" Text="$0.00" Foreground="White" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center"/>
+                            </StackPanel>
+                        </Border>
+
+                        <Border Grid.Column="1" Background="#FF4CAF50" CornerRadius="5" Padding="15" Margin="5,0">
+                            <StackPanel HorizontalAlignment="Center">
+                                <TextBlock Text="Total Bookings" Foreground="White" FontSize="12" HorizontalAlignment="Center"/>
+                                <TextBlock Name="lblTotalBookings" Text="0" Foreground="White" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center"/>
+                            </StackPanel>
+                        </Border>
+
+                        <Border Grid.Column="2" Background="#FFFF9800" CornerRadius="5" Padding="15" Margin="5,0,0,0">
+                            <StackPanel HorizontalAlignment="Center">
+                                <TextBlock Text="Average Booking Value" Foreground="White" FontSize="12" HorizontalAlignment="Center"/>
+                                <TextBlock Name="lblAverageBooking" Text="$0.00" Foreground="White" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center"/>
+                            </StackPanel>
+                        </Border>
+                    </Grid>
+
+                    <!-- Revenue Details DataGrid -->
+                    <DataGrid Grid.Row="1" Name="dgRevenueReport" AutoGenerateColumns="False" 
+                              IsReadOnly="True" GridLinesVisibility="Horizontal" HeadersVisibility="Column"
+                              AlternatingRowBackground="#FFF9F9F9">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Booking Date" Binding="{Binding BookingDate, StringFormat=dd/MM/yyyy}" Width="120"/>
+                            <DataGridTextColumn Header="Booking ID" Binding="{Binding BookingReservationID}" Width="100"/>
+                            <DataGridTextColumn Header="Customer" Binding="{Binding Customer.CustomerFullName}" Width="180"/>
+                            <DataGridTextColumn Header="Total Amount" Binding="{Binding TotalPrice, StringFormat=C}" Width="120"/>
+                            <DataGridTextColumn Header="Status" Binding="{Binding BookingStatus}" Width="80"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Booking Statistics" FontSize="14">
+                <DataGrid Name="dgBookingStats" AutoGenerateColumns="False" IsReadOnly="True" Margin="10"
+                          GridLinesVisibility="Horizontal" HeadersVisibility="Column" AlternatingRowBackground="#FFF9F9F9">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Room Number" Binding="{Binding RoomNumber}" Width="120"/>
+                        <DataGridTextColumn Header="Room Type" Binding="{Binding RoomTypeName}" Width="150"/>
+                        <DataGridTextColumn Header="Total Bookings" Binding="{Binding TotalBookings}" Width="120"/>
+                        <DataGridTextColumn Header="Total Revenue" Binding="{Binding TotalRevenue, StringFormat=C}" Width="150"/>
+                        <DataGridTextColumn Header="Occupancy Rate" Binding="{Binding OccupancyRate, StringFormat=P1}" Width="120"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Page>

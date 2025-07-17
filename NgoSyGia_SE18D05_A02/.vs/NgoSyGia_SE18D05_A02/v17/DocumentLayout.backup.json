@@ -1,0 +1,883 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygiawpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|solutionrelative:ngosygiawpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygiawpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|solutionrelative:ngosygiawpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygiawpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|solutionrelative:ngosygiawpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygiawpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|solutionrelative:ngosygiawpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygiawpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|solutionrelative:ngosygiawpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygiawpf\\reportspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|solutionrelative:ngosygiawpf\\reportspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygiawpf\\reportspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|solutionrelative:ngosygiawpf\\reportspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygiawpf\\bookingdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|solutionrelative:ngosygiawpf\\bookingdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygiawpf\\bookingmanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|solutionrelative:ngosygiawpf\\bookingmanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygiawpf\\bookingmanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|solutionrelative:ngosygiawpf\\bookingmanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygiawpf\\bookingdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|solutionrelative:ngosygiawpf\\bookingdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygiawpf\\roomdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|solutionrelative:ngosygiawpf\\roomdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygiawpf\\roomdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|solutionrelative:ngosygiawpf\\roomdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygiawpf\\roommanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|solutionrelative:ngosygiawpf\\roommanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygiawpf\\roommanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|solutionrelative:ngosygiawpf\\roommanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygiawpf\\customerdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|solutionrelative:ngosygiawpf\\customerdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygiawpf\\customerdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|solutionrelative:ngosygiawpf\\customerdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8793F8-DF4A-40E0-9A57-3D778A1E3B03}|DataAccess\\DataAccess.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\dataaccess\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8793F8-DF4A-40E0-9A57-3D778A1E3B03}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygiawpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|solutionrelative:ngosygiawpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygiawpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|solutionrelative:ngosygiawpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8793F8-DF4A-40E0-9A57-3D778A1E3B03}|DataAccess\\DataAccess.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\dataaccess\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8793F8-DF4A-40E0-9A57-3D778A1E3B03}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC416D05-8395-4381-8229-254A869EEF1B}|BusinessObject\\BusinessObject.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\businessobject\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC416D05-8395-4381-8229-254A869EEF1B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC416D05-8395-4381-8229-254A869EEF1B}|BusinessObject\\BusinessObject.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\businessobject\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC416D05-8395-4381-8229-254A869EEF1B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC416D05-8395-4381-8229-254A869EEF1B}|BusinessObject\\BusinessObject.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\businessobject\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC416D05-8395-4381-8229-254A869EEF1B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC416D05-8395-4381-8229-254A869EEF1B}|BusinessObject\\BusinessObject.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\businessobject\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC416D05-8395-4381-8229-254A869EEF1B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC416D05-8395-4381-8229-254A869EEF1B}|BusinessObject\\BusinessObject.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\businessobject\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC416D05-8395-4381-8229-254A869EEF1B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8793F8-DF4A-40E0-9A57-3D778A1E3B03}|DataAccess\\DataAccess.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\dataaccess\\roominformationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8793F8-DF4A-40E0-9A57-3D778A1E3B03}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\roominformationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygiawpf\\customermanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|solutionrelative:ngosygiawpf\\customermanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygiawpf\\customermanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|solutionrelative:ngosygiawpf\\customermanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3C8369-33A9-4EB7-8241-B9C2C8B36C8E}|Repository\\Repository.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\repository\\bookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3C8369-33A9-4EB7-8241-B9C2C8B36C8E}|Repository\\Repository.csproj|solutionrelative:repository\\bookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3C8369-33A9-4EB7-8241-B9C2C8B36C8E}|Repository\\Repository.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\repository\\ibookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3C8369-33A9-4EB7-8241-B9C2C8B36C8E}|Repository\\Repository.csproj|solutionrelative:repository\\ibookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3C8369-33A9-4EB7-8241-B9C2C8B36C8E}|Repository\\Repository.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\repository\\bookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3C8369-33A9-4EB7-8241-B9C2C8B36C8E}|Repository\\Repository.csproj|solutionrelative:repository\\bookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3C8369-33A9-4EB7-8241-B9C2C8B36C8E}|Repository\\Repository.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\repository\\ibookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3C8369-33A9-4EB7-8241-B9C2C8B36C8E}|Repository\\Repository.csproj|solutionrelative:repository\\ibookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3C8369-33A9-4EB7-8241-B9C2C8B36C8E}|Repository\\Repository.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\repository\\roominformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3C8369-33A9-4EB7-8241-B9C2C8B36C8E}|Repository\\Repository.csproj|solutionrelative:repository\\roominformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3C8369-33A9-4EB7-8241-B9C2C8B36C8E}|Repository\\Repository.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\repository\\iroominformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3C8369-33A9-4EB7-8241-B9C2C8B36C8E}|Repository\\Repository.csproj|solutionrelative:repository\\iroominformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3C8369-33A9-4EB7-8241-B9C2C8B36C8E}|Repository\\Repository.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\repository\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3C8369-33A9-4EB7-8241-B9C2C8B36C8E}|Repository\\Repository.csproj|solutionrelative:repository\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3C8369-33A9-4EB7-8241-B9C2C8B36C8E}|Repository\\Repository.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\repository\\iroomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3C8369-33A9-4EB7-8241-B9C2C8B36C8E}|Repository\\Repository.csproj|solutionrelative:repository\\iroomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3C8369-33A9-4EB7-8241-B9C2C8B36C8E}|Repository\\Repository.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3C8369-33A9-4EB7-8241-B9C2C8B36C8E}|Repository\\Repository.csproj|solutionrelative:repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3C8369-33A9-4EB7-8241-B9C2C8B36C8E}|Repository\\Repository.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3C8369-33A9-4EB7-8241-B9C2C8B36C8E}|Repository\\Repository.csproj|solutionrelative:repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|NgoSyGiaWPF||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\Properties\\Resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NgoSyGiaWPF\\Properties\\Resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF277BA-8D21-4CE1-AD3E-205A435DB73A}|NgoSyGia_SE18D05_A02\\NgoSyGia_SE18D05_A02.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygia_se18d05_a02\\ngosygia_se18d05_a02.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8FF277BA-8D21-4CE1-AD3E-205A435DB73A}|NgoSyGia_SE18D05_A02\\NgoSyGia_SE18D05_A02.csproj|solutionrelative:ngosygia_se18d05_a02\\ngosygia_se18d05_a02.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8793F8-DF4A-40E0-9A57-3D778A1E3B03}|DataAccess\\DataAccess.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\dataaccess\\dataaccess.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2E8793F8-DF4A-40E0-9A57-3D778A1E3B03}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC416D05-8395-4381-8229-254A869EEF1B}|BusinessObject\\BusinessObject.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\businessobject\\businessobject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CC416D05-8395-4381-8229-254A869EEF1B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\businessobject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3C8369-33A9-4EB7-8241-B9C2C8B36C8E}|Repository\\Repository.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3C8369-33A9-4EB7-8241-B9C2C8B36C8E}|Repository\\Repository.csproj|solutionrelative:repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8793F8-DF4A-40E0-9A57-3D778A1E3B03}|DataAccess\\DataAccess.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8793F8-DF4A-40E0-9A57-3D778A1E3B03}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF277BA-8D21-4CE1-AD3E-205A435DB73A}|NgoSyGia_SE18D05_A02\\NgoSyGia_SE18D05_A02.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygia_se18d05_a02\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8FF277BA-8D21-4CE1-AD3E-205A435DB73A}|NgoSyGia_SE18D05_A02\\NgoSyGia_SE18D05_A02.csproj|solutionrelative:ngosygia_se18d05_a02\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF277BA-8D21-4CE1-AD3E-205A435DB73A}|NgoSyGia_SE18D05_A02\\NgoSyGia_SE18D05_A02.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygia_se18d05_a02\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF277BA-8D21-4CE1-AD3E-205A435DB73A}|NgoSyGia_SE18D05_A02\\NgoSyGia_SE18D05_A02.csproj|solutionrelative:ngosygia_se18d05_a02\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|d:\\k\u00EC 5\\prn212\\ngosygia_se18d05_a02\\ngosygiawpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFACE744-BF3C-41A1-AB57-E79A791889A4}|NgoSyGiaWPF\\NgoSyGiaWPF.csproj|solutionrelative:ngosygiawpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NgoSyGiaWPF\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\Properties\\Settings.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NgoSyGiaWPF\\Properties\\Settings.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NgoSyGiaWPF\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\ngosygiawpf\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ngosygiawpf\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NgoSyGiaWPF\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\BusinessObject\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessObject\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerWindow.xaml",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\CustomerWindow.xaml",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\CustomerWindow.xaml",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\CustomerWindow.xaml",
+              "RelativeToolTip": "NgoSyGiaWPF\\CustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T03:07:11.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportsPage.xaml",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\ReportsPage.xaml",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\ReportsPage.xaml",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\ReportsPage.xaml",
+              "RelativeToolTip": "NgoSyGiaWPF\\ReportsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T03:02:14.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\AdminWindow.xaml.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "NgoSyGiaWPF\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAmwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:55:38.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "NgoSyGiaWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:32:48.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\AdminWindow.xaml",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\AdminWindow.xaml",
+              "RelativeToolTip": "NgoSyGiaWPF\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-16T14:55:01.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerWindow.xaml.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\CustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\CustomerWindow.xaml.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\CustomerWindow.xaml.cs*",
+              "RelativeToolTip": "NgoSyGiaWPF\\CustomerWindow.xaml.cs*",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAmwEMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:07:32.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportsPage.xaml.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\ReportsPage.xaml.cs",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\ReportsPage.xaml.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\ReportsPage.xaml.cs",
+              "RelativeToolTip": "NgoSyGiaWPF\\ReportsPage.xaml.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAcwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:03:07.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingManagementPage.xaml.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\BookingManagementPage.xaml.cs",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\BookingManagementPage.xaml.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\BookingManagementPage.xaml.cs",
+              "RelativeToolTip": "NgoSyGiaWPF\\BookingManagementPage.xaml.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAiwNwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T02:18:04.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingDialog.xaml",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\BookingDialog.xaml",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\BookingDialog.xaml",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\BookingDialog.xaml",
+              "RelativeToolTip": "NgoSyGiaWPF\\BookingDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T02:18:35.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingManagementPage.xaml",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\BookingManagementPage.xaml",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\BookingManagementPage.xaml",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\BookingManagementPage.xaml",
+              "RelativeToolTip": "NgoSyGiaWPF\\BookingManagementPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T02:12:16.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingDialog.xaml.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\BookingDialog.xaml.cs",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\BookingDialog.xaml.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\BookingDialog.xaml.cs",
+              "RelativeToolTip": "NgoSyGiaWPF\\BookingDialog.xaml.cs",
+              "ViewState": "AgIAAFIBAAAAAAAAAAAcwF8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T02:21:47.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoomManagementPage.xaml",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\RoomManagementPage.xaml",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\RoomManagementPage.xaml",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\RoomManagementPage.xaml",
+              "RelativeToolTip": "NgoSyGiaWPF\\RoomManagementPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T01:42:40.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomDialog.xaml.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\RoomDialog.xaml.cs",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\RoomDialog.xaml.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\RoomDialog.xaml.cs",
+              "RelativeToolTip": "NgoSyGiaWPF\\RoomDialog.xaml.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAcwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T01:43:43.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\appsettings.json",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\appsettings.json",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\appsettings.json",
+              "RelativeToolTip": "NgoSyGiaWPF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-16T14:50:00.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoomDialog.xaml",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\RoomDialog.xaml",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\RoomDialog.xaml",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\RoomDialog.xaml",
+              "RelativeToolTip": "NgoSyGiaWPF\\RoomDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T01:43:26.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoomManagementPage.xaml.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\RoomManagementPage.xaml.cs",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\RoomManagementPage.xaml.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\RoomManagementPage.xaml.cs",
+              "RelativeToolTip": "NgoSyGiaWPF\\RoomManagementPage.xaml.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAA2wIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T01:42:59.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\MainWindow.xaml",
+              "RelativeToolTip": "NgoSyGiaWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-16T01:32:48.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerDialog.xaml",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\CustomerDialog.xaml",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\CustomerDialog.xaml",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\CustomerDialog.xaml",
+              "RelativeToolTip": "NgoSyGiaWPF\\CustomerDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-16T14:56:54.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerDialog.xaml.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\CustomerDialog.xaml.cs",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\CustomerDialog.xaml.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\CustomerDialog.xaml.cs",
+              "RelativeToolTip": "NgoSyGiaWPF\\CustomerDialog.xaml.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAiwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:57:24.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FUMiniHotelManagementContext.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\DataAccess\\FUMiniHotelManagementContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\FUMiniHotelManagementContext.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\DataAccess\\FUMiniHotelManagementContext.cs",
+              "RelativeToolTip": "DataAccess\\FUMiniHotelManagementContext.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAcwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:11:07.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\BusinessObject\\RoomType.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\RoomType.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\BusinessObject\\RoomType.cs",
+              "RelativeToolTip": "BusinessObject\\RoomType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:01:30.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookingReservationDAO.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\DataAccess\\BookingReservationDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\BookingReservationDAO.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\DataAccess\\BookingReservationDAO.cs",
+              "RelativeToolTip": "DataAccess\\BookingReservationDAO.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAcwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:41:33.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RoomInformation.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\BusinessObject\\RoomInformation.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\RoomInformation.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\BusinessObject\\RoomInformation.cs",
+              "RelativeToolTip": "BusinessObject\\RoomInformation.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:01:19.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookingReservation.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\BusinessObject\\BookingReservation.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\BookingReservation.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\BusinessObject\\BookingReservation.cs",
+              "RelativeToolTip": "BusinessObject\\BookingReservation.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:01:09.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\BusinessObject\\Customer.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Customer.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\BusinessObject\\Customer.cs",
+              "RelativeToolTip": "BusinessObject\\Customer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA9wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:00:55.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\BusinessObject\\Enums.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Enums.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\BusinessObject\\Enums.cs",
+              "RelativeToolTip": "BusinessObject\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:09:17.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RoomInformationDAO.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\DataAccess\\RoomInformationDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\RoomInformationDAO.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\DataAccess\\RoomInformationDAO.cs",
+              "RelativeToolTip": "DataAccess\\RoomInformationDAO.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAcwKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:08:51.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomerManagementPage.xaml.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\CustomerManagementPage.xaml.cs",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\CustomerManagementPage.xaml.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\CustomerManagementPage.xaml.cs",
+              "RelativeToolTip": "NgoSyGiaWPF\\CustomerManagementPage.xaml.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAcwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:56:27.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CustomerManagementPage.xaml",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\CustomerManagementPage.xaml",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\CustomerManagementPage.xaml",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\CustomerManagementPage.xaml",
+              "RelativeToolTip": "NgoSyGiaWPF\\CustomerManagementPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-16T14:56:03.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BookingDetailRepository.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\Repository\\BookingDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\BookingDetailRepository.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\Repository\\BookingDetailRepository.cs",
+              "RelativeToolTip": "Repository\\BookingDetailRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:45:09.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IBookingDetailRepository.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\Repository\\IBookingDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IBookingDetailRepository.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\Repository\\IBookingDetailRepository.cs",
+              "RelativeToolTip": "Repository\\IBookingDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:44:52.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BookingReservationRepository.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\Repository\\BookingReservationRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\BookingReservationRepository.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\Repository\\BookingReservationRepository.cs",
+              "RelativeToolTip": "Repository\\BookingReservationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:44:35.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IBookingReservationRepository.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\Repository\\IBookingReservationRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IBookingReservationRepository.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\Repository\\IBookingReservationRepository.cs",
+              "RelativeToolTip": "Repository\\IBookingReservationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:44:15.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RoomInformationRepository.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\Repository\\RoomInformationRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\RoomInformationRepository.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\Repository\\RoomInformationRepository.cs",
+              "RelativeToolTip": "Repository\\RoomInformationRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:35:35.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IRoomInformationRepository.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\Repository\\IRoomInformationRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRoomInformationRepository.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\Repository\\IRoomInformationRepository.cs",
+              "RelativeToolTip": "Repository\\IRoomInformationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:35:04.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RoomTypeRepository.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\Repository\\RoomTypeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\RoomTypeRepository.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\Repository\\RoomTypeRepository.cs",
+              "RelativeToolTip": "Repository\\RoomTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:34:46.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IRoomTypeRepository.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\Repository\\IRoomTypeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRoomTypeRepository.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\Repository\\IRoomTypeRepository.cs",
+              "RelativeToolTip": "Repository\\IRoomTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:33:00.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CustomerRepository.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "Repository\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:32:36.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\Repository\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ICustomerRepository.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\Repository\\ICustomerRepository.cs",
+              "RelativeToolTip": "Repository\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:32:06.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\App.xaml.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\App.xaml.cs",
+              "RelativeToolTip": "NgoSyGiaWPF\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T06:14:23.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "NgoSyGiaWPF\\Properties\\AssemblyInfo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T06:14:00.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\Properties\\Settings.Designer.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "NgoSyGiaWPF\\Properties\\Settings.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:57:40.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "NgoSyGiaWPF",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\NgoSyGiaWPF.csproj",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\NgoSyGiaWPF.csproj",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\NgoSyGiaWPF.csproj",
+              "RelativeToolTip": "NgoSyGiaWPF\\NgoSyGiaWPF.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-16T05:41:48.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\packages.config",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\packages.config",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\packages.config",
+              "RelativeToolTip": "NgoSyGiaWPF\\packages.config",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-16T02:09:18.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\Properties\\Settings.settings",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\Properties\\Settings.settings",
+              "RelativeToolTip": "NgoSyGiaWPF\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-07-16T02:09:01.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\App.config",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\App.config",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\App.config",
+              "RelativeToolTip": "NgoSyGiaWPF\\App.config",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-16T05:48:16.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "NgoSyGiaWPF\\Properties\\Resources.resx",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGiaWPF\\Properties\\Resources.resx",
+              "RelativeToolTip": "NgoSyGiaWPF\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-16T02:09:05.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BusinessObject",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\BusinessObject\\BusinessObject.csproj",
+              "RelativeDocumentMoniker": "BusinessObject\\BusinessObject.csproj",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\BusinessObject\\BusinessObject.csproj",
+              "RelativeToolTip": "BusinessObject\\BusinessObject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-16T01:47:09.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "NgoSyGia_SE18D05_A02",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGia_SE18D05_A02\\NgoSyGia_SE18D05_A02.csproj",
+              "RelativeDocumentMoniker": "NgoSyGia_SE18D05_A02\\NgoSyGia_SE18D05_A02.csproj",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGia_SE18D05_A02\\NgoSyGia_SE18D05_A02.csproj",
+              "RelativeToolTip": "NgoSyGia_SE18D05_A02\\NgoSyGia_SE18D05_A02.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-16T01:40:28.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DataAccess",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-16T05:35:08.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "Repository\\Class1.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\Repository\\Class1.cs",
+              "RelativeToolTip": "Repository\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:31:51.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Class1.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\DataAccess\\Class1.cs",
+              "RelativeToolTip": "DataAccess\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:31:29.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\BusinessObject\\Class1.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Class1.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\BusinessObject\\Class1.cs",
+              "RelativeToolTip": "BusinessObject\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:30:41.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGia_SE18D05_A02\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NgoSyGia_SE18D05_A02\\MainWindow.xaml",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGia_SE18D05_A02\\MainWindow.xaml",
+              "RelativeToolTip": "NgoSyGia_SE18D05_A02\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-16T01:27:45.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGia_SE18D05_A02\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NgoSyGia_SE18D05_A02\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\K\u00EC 5\\PRN212\\NgoSyGia_SE18D05_A02\\NgoSyGia_SE18D05_A02\\MainWindow.xaml.cs",
+              "RelativeToolTip": "NgoSyGia_SE18D05_A02\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:27:41.68Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

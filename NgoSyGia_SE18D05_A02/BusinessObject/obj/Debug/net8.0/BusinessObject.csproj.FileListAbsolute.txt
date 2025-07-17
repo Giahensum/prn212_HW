@@ -1,0 +1,15 @@
+D:\Kì 5\PRN212\NgoSyGia_SE18D05_A02\BusinessObject\bin\Debug\net8.0\BusinessObject.deps.json
+D:\Kì 5\PRN212\NgoSyGia_SE18D05_A02\BusinessObject\bin\Debug\net8.0\BusinessObject.runtimeconfig.json
+D:\Kì 5\PRN212\NgoSyGia_SE18D05_A02\BusinessObject\bin\Debug\net8.0\BusinessObject.dll
+D:\Kì 5\PRN212\NgoSyGia_SE18D05_A02\BusinessObject\bin\Debug\net8.0\BusinessObject.pdb
+D:\Kì 5\PRN212\NgoSyGia_SE18D05_A02\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.AssemblyReference.cache
+D:\Kì 5\PRN212\NgoSyGia_SE18D05_A02\BusinessObject\obj\Debug\net8.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kì 5\PRN212\NgoSyGia_SE18D05_A02\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfoInputs.cache
+D:\Kì 5\PRN212\NgoSyGia_SE18D05_A02\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfo.cs
+D:\Kì 5\PRN212\NgoSyGia_SE18D05_A02\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\Kì 5\PRN212\NgoSyGia_SE18D05_A02\BusinessObject\obj\Debug\net8.0\BusinessObject.sourcelink.json
+D:\Kì 5\PRN212\NgoSyGia_SE18D05_A02\BusinessObject\obj\Debug\net8.0\BusinessObject.dll
+D:\Kì 5\PRN212\NgoSyGia_SE18D05_A02\BusinessObject\obj\Debug\net8.0\refint\BusinessObject.dll
+D:\Kì 5\PRN212\NgoSyGia_SE18D05_A02\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb
+D:\Kì 5\PRN212\NgoSyGia_SE18D05_A02\BusinessObject\obj\Debug\net8.0\BusinessObject.genruntimeconfig.cache
+D:\Kì 5\PRN212\NgoSyGia_SE18D05_A02\BusinessObject\obj\Debug\net8.0\ref\BusinessObject.dll

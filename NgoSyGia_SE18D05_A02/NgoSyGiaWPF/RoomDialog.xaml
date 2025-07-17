@@ -1,0 +1,80 @@
+﻿<Window x:Class="NgoSyGiaWPF.RoomDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Room Information"
+        Height="600" Width="500"
+        WindowStartupLocation="CenterOwner" 
+        ResizeMode="NoResize">
+
+    <Border Margin="20" Background="White" CornerRadius="10">
+        <Border.Effect>
+            <DropShadowEffect ShadowDepth="3" Direction="315"
+                              Color="Gray" Opacity="0.25" BlurRadius="8"/>
+        </Border.Effect>
+
+        <Grid Margin="25">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <!-- Title -->
+            <TextBlock x:Name="lblTitle" Text="Add Room"
+                       FontSize="20" FontWeight="Bold"
+                       Foreground="#1976D2" Margin="0,0,0,15"/>
+
+            <!-- Form -->
+            <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+                <StackPanel Margin="0,0,0,15">
+                    <!-- Room Number -->
+                    <TextBlock Text="Room Number:" FontWeight="SemiBold" Margin="0,0,0,5"/>
+                    <TextBox x:Name="txtRoomNumber" Height="35" FontSize="13" 
+                             Padding="10,8" BorderBrush="#CCCCCC" BorderThickness="1"
+                             Margin="0,0,0,12"/>
+
+                    <!-- Room Type -->
+                    <TextBlock Text="Room Type:" FontWeight="SemiBold" Margin="0,0,0,5"/>
+                    <ComboBox x:Name="cboRoomType" Height="35" FontSize="13"
+                              DisplayMemberPath="RoomTypeName" SelectedValuePath="RoomTypeID"
+                              Margin="0,0,0,12"/>
+
+                    <!-- Max Capacity -->
+                    <TextBlock Text="Max Capacity:" FontWeight="SemiBold" Margin="0,0,0,5"/>
+                    <TextBox x:Name="txtMaxCapacity" Height="35" FontSize="13" 
+                             Padding="10,8" BorderBrush="#CCCCCC" BorderThickness="1"
+                             Margin="0,0,0,12"/>
+
+                    <!-- Price Per Day -->
+                    <TextBlock Text="Price Per Day:" FontWeight="SemiBold" Margin="0,0,0,5"/>
+                    <TextBox x:Name="txtPricePerDay" Height="35" FontSize="13" 
+                             Padding="10,8" BorderBrush="#CCCCCC" BorderThickness="1"
+                             Margin="0,0,0,12"/>
+
+                    <!-- Description -->
+                    <TextBlock Text="Description:" FontWeight="SemiBold" Margin="0,0,0,5"/>
+                    <TextBox x:Name="txtDescription" Height="80" FontSize="13" 
+                             Padding="10,8" BorderBrush="#CCCCCC" BorderThickness="1"
+                             TextWrapping="Wrap" AcceptsReturn="True"
+                             Margin="0,0,0,12"/>
+
+                    <!-- Status -->
+                    <TextBlock Text="Status:" FontWeight="SemiBold" Margin="0,0,0,5"/>
+                    <CheckBox x:Name="chkStatus" Content="Available" IsChecked="True"
+                              Margin="0,0,0,0"/>
+                </StackPanel>
+            </ScrollViewer>
+
+            <!-- Buttons -->
+            <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right">
+                <Button x:Name="btnSave" Content="Save" Width="100" Height="35"
+                        Margin="0,0,10,0" Background="#4CAF50" Foreground="White"
+                        BorderThickness="0" FontWeight="Bold"
+                        Click="BtnSave_Click"/>
+                <Button x:Name="btnCancel" Content="Cancel" Width="100" Height="35"
+                        Background="#9E9E9E" Foreground="White" BorderThickness="0"
+                        FontWeight="Bold" Click="BtnCancel_Click"/>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>
